@@ -1,0 +1,4 @@
+team:
+    name: 'Steelers'
+    color: 'Black'
+    player-names: ['Mason Rudolph', 'James Connor']
